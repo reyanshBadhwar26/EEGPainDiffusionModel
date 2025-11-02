@@ -1,0 +1,14 @@
+# Data and model artifacts
+*.npy
+*.pth
+*.pt
+*.ckpt
+
+raw_data/
+
+# Experiment and result folders (generated artifacts)
+test1_prelim/
+test3_500epochs_200data_4res/
+test4_UNet/
+test5_UNET_500samples/
+test6_UNET_deep/
